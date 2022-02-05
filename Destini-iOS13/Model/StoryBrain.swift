@@ -9,5 +9,11 @@
 import Foundation
 
 class StoryBrain {
-    
+//    let story0 = Story(title: "You see a fork in the road", choice1: "Take a left", choice2: "Take a right")
+//
+//    let story1 = Story(title: "You see a tiger.", choice1: "Shout for help.", choice2: "Play dead.")
+//
+//    let story2 = Story(title: "You find a treasure chest", choice1: "Open it.", choice2: "Check for traps.")
+//
+//    var storyArray : [Story] = [story0, story1, story2]
 }
